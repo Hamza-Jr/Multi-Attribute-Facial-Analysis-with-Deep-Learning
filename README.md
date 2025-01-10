@@ -35,6 +35,44 @@ The project leverages transfer learning with MobileNetV2 pre-trained on ImageNet
 
 ---
 
+# Image Processing - Interactive Web Interface
+
+## Project Description
+This project aims to develop an interactive web platform that allows users to manipulate and explore images using various image processing techniques. Users can add noise, apply filters, detect edges, and perform morphological transformations in real-time.
+
+---
+
+## TESTING
+
+### 1. **Surprise Emotion**
+
+This image demonstrates a person displaying the "surprise" emotion. The system classifies this facial expression as the "Surprise" emotion.
+
+![Interface](image/suprise.jpg)
+
+### 2. ** Natural Expression**
+
+In this image, the individual displays a neutral or "natural" expression. The model predicts this expression as "Neutral.".
+
+![Upload Image](image/natural.jpg)
+
+### 3. **Man's Face for Gender and age Classification**
+
+This image is an example of a male subject used for gender classification. The model processes the facial features to predict the gender and age.
+
+![Image with Noise](image/man.jpg)
+
+### 4. **Test Image Emotion Estimation**
+
+Here’s a test image that the system processes to predict the emotion of the individual. The model analyzes the facial features for each attribute.
+
+![Sobel Filter](image/sometest.jpg)
+
+
+
+
+
+
 ## Dependencies
 
 To run this project, you will need to install the following Python libraries:
