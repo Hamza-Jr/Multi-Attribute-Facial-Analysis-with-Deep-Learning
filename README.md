@@ -9,11 +9,6 @@ This project focuses on the development of a system to estimate age, classify ge
 - [Introduction](#introduction)
 - [Datasets](#datasets)
 - [Dependencies](#dependencies)
-- [Model Architecture](#model-architecture)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Evaluation Metrics](#evaluation-metrics)
-- [License](#license)
 
 ---
 
